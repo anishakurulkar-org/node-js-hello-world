@@ -1,0 +1,13 @@
+{
+  "name": "harness-golden-ci-nodejs",
+  "version": "1.0.0",
+  "description": "Minimal Node.js app for Harness Golden CI pipeline testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
